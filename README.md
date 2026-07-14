@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm backend developer from Tajikistan
+I'm just a guy who likes creating things.
+When I'm not coding, you'll probably find me reading, watching classic films, learning something random, or walking while overthinking ideas.
+I believe consistency beats motivation, and curiosity beats talent.
 
+- Bilal Safolov 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_force_777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilol-safolov-6ab35038a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:forskieee@gmail.com) 
