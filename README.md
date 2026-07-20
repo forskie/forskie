@@ -13,14 +13,9 @@ I believe consistency beats motivation, and curiosity beats talent.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=forskie&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=forskie&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=forskie&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=forskie&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=forskie&icon=0&color=0)](https://visitcount.itsvg.in)
 
